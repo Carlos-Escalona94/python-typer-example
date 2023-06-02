@@ -1,6 +1,6 @@
 python -m pip install pytest==6.2.4
 
-venv\Scripts\activate.bat
+source venv\Scripts\activate.bat
 
 python -m pip install -r requirements.txt
 
